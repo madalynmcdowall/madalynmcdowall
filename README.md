@@ -1,4 +1,4 @@
-# Madalyn McDowall
+Madalyn McDowall
 
 * I’m currently developing computational models for **Binary Black Hole Mergers** in hierarchical triple systems and simulating **Tidal Seismology** in eccentric binaries using `REBOUNDx`.
 
