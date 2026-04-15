@@ -1,7 +1,10 @@
-## Madalyn McDowall 
+# Madalyn McDowall
+**Stony Brook University | Undergraduate Researcher**
 
-* I am an undergraduate Astronomy major currently developing computational models for **Binary Black Hole Mergers** in hierarchical triple systems and `REBOUNDx` for my WISE senior thesis.
-
-* My main research interests include astroseismology, stellar multiplicity, and stellar magnetic activity.
-
-* Right now, I’m in the process of adding projects from my Astronomy, Cosmology, and Exoplanets courses — including observational analysis, theoretical modeling, and computational explorations. I’m also uploading the code I wrote for my Experimental Physics labs, including Waves & Optics and Modern Physics, where I worked extensively with data reduction, uncertainty analysis, and numerical methods.
+* **Senior Thesis:** Developing high-resolution computational models for **Binary Black Hole Mergers** in hierarchical triple systems. Utilizing `REBOUND` and `REBOUNDx` to investigate the Kozai–Lidov migration channel and its contribution to LIGO/Virgo populations.
+* **Research Interests:** Computational Astrophysics, Stellar Multiplicity, and Gravitational Wave Populations.
+* **Technical Background:** Experienced in N-body numerical methods, data reduction for Experimental Physics (Optics/Modern Physics), and Bayesian inference frameworks.
+* **Current Projects:**
+    * `kl-driven-mergers`: Hierarchical triple BH population study (Thesis).
+    * `obs-astronomy-suite`: Photometric analysis and stellar modeling from observational coursework.
+    * `experimental-physics-lab`: Numerical methods and uncertainty analysis for lab-based data reduction.
