@@ -1,4 +1,4 @@
-# Madalyn McDowall
+## Madalyn McDowall
 **Stony Brook University | Undergraduate Researcher**
 
 * **Senior Thesis:** Developing high-resolution computational models for **Binary Black Hole Mergers** in hierarchical triple systems. Utilizing `REBOUND` and `REBOUNDx` to investigate the Kozai–Lidov migration channel and its contribution to LIGO/Virgo populations.
